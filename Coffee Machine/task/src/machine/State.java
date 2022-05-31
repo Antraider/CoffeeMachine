@@ -1,5 +1,0 @@
-package machine;
-
-public enum State {
-    CHOOSING_ACTION, CHOOSING_COFFEE, FILLING, TAKING_MONEY, SHOWING_REMAINING
-}
